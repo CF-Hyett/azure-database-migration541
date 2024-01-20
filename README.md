@@ -140,10 +140,10 @@ This process demonstrated the power of azure servies for data security and recov
 
 ### Insights 
 - Integrating Microsoft Entra ID with Azure SQL Database provides a more secure and manageable way to authenticate users and applications, eliminating the need for storing database credentials. 
-- It provides granular access control aiding in security which can protect data from accidental or malicious deletion or corruption.
+- It provides granular access control aiding security which can protect data from accidental or malicious deletion or corruption.
 
 ## 7. Conclusion
-The primary takeaways from this project is the ease of use of Azure services and the security and data protection it provides. 
+The primary takeaways from this project is the ease of use of Azure services and the security and data protection it provides. There are a high number of Azure services that offer quick intergration with each other sush as the Azure SQL databases and the azure data studio allowing for easy migration to the cloud and thus, providing the security and redundancy.
 
 ## 8. UML
 ![Flowchart](flowchart.png)
